@@ -26,11 +26,13 @@
 前置名稱為 "**challenge_week#_**" 的則是老師在每週課後討論區貼的挑戰題實作。
 
 
+* week1 ~ week6 -- [APPs基礎實作](https://courses.openedu.tw/courses/course-v1:FCUx+QA+20014/course/)
+* week7 ~ week12 -- [APPs進階實作暨物理實驗專題應用](https://courses.openedu.tw/courses/course-v1:FCUx+QA+20019/course/)
+
+
 ## 學習進度 (已完成)
 
-六週的課程我已經上完了，課程的部分整體大約花了一週的時間看完。每週課後老師在討論區貼的挑戰題反而比較花時間，我也已經完成實作並上傳了。
-
-之後會找時間繼續銜接進階課程 -- [APPs進階實作暨物理實驗專題應用](https://courses.openedu.tw/courses/course-v1:FCUx+QA+20019/course/)
+前六週的 [APPs基礎實作](https://courses.openedu.tw/courses/course-v1:FCUx+QA+20014/course/) 課程我已經上完了，課程的部分整體大約花了一週的時間看完。每週課後老師在討論區貼的挑戰題反而比較花時間，我也已經完成實作並上傳了。目前正在進行進階課程 -- [APPs進階實作暨物理實驗專題應用](https://courses.openedu.tw/courses/course-v1:FCUx+QA+20019/course/)。
 
 
 ~ END ~
